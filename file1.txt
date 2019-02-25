@@ -1,3 +1,2 @@
-This is the first file in the Studious project by Abdu. 
-
-I ma making some changes to this file, and Myriams as well, let s see how to manage conflicts.
+This is the third file in the Studious project by Abdu. 
+changes added by myriam.
