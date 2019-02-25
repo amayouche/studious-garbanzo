@@ -1,1 +1,2 @@
-This is the first file in the Studious project by Abdu. 
+This is the second file in the Studious project by Abdu. 
+changes added by myriam.
